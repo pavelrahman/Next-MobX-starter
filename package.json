@@ -1,0 +1,27 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "It is a starter project for react without create react app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Gazi Mizanur Rahman (pavel)",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "mobx": "^5.13.0",
+    "mobx-react": "^6.1.1",
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-decorators": "^7.4.4"
+  }
+}
